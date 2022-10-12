@@ -1,4 +1,4 @@
-#  API Pokemon JS
+#  API Pokemon basics
 Le minimum vital pour appeler et consommer une API en JS Vanilla
 
 git clone git@github.com:Tadkozh/API-Pokemon-basics.git
